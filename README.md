@@ -1,5 +1,5 @@
 # MuteAllExeptOne
-## A Max for Live plugin that mutes all track in a group execpt one 🎹
+## A Max for Live plugin that mutes all track in a group except one 🎹
 
 ![alt text](https://github.com/Adrian-Winter/MuteGroupExeptOne/blob/main/MuteGroupExeptOne.gif)
 
