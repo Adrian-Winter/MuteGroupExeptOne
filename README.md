@@ -18,7 +18,7 @@ Here are some cool usecases that you could implement with this device😎:
  When you launch the sceneclip of the group all the samples are beeing played, when you turn the dial while multiple tracks are playing you can create cool scratching/slicing effects.
 
 ### Use it as a __pitch shifter__
-You can load the same clip onto multiple tracks, but pitch it up or down in the clip menue. Then you can use the dial to swap between the diffrently pitched samples. 
+You can load the same clip onto multiple tracks, but pitch it up or down in the clip menue. Then you can use the dial to swap between the differently pitched samples. 
 
 ## How to use this application? ⚙️
 
