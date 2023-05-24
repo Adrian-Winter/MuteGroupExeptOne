@@ -3,6 +3,8 @@
 
 ![alt text](https://github.com/Adrian-Winter/MuteGroupExeptOne/blob/main/MuteGroupExeptOne.gif)
 
+## Updates:
++ Now Multiple intances can be used in one set. (Before there was a problem with calculating the group size when having multiple groups in one set.) 
 ## Why did I create this device ? 😇
 For my live setup I needed dynamically change the clips on one track. I created a group that contains my clips, kind of like a sample bank. 
 By having all the clips in the group beeing triggered at the same time when launching the group scene, I needed to create a device that acts like a solo button for tracks that are contained in a group without muting track outside the group. 
